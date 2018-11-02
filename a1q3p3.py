@@ -1,5 +1,4 @@
 # Benjamin Taubenblatt
-# 260626105
 # COMP 550 Assignment 1
 # Python 3
 
